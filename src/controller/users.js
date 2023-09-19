@@ -107,6 +107,7 @@ let usersController = {
       users_name,
       users_email,
       users_phone,
+      users_password,
       users_confirmpasswordHash,
       users_photo,
     };
