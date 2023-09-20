@@ -3,7 +3,7 @@
   <div align="center">
     <img height="150" src="https://camo.githubusercontent.com/c0d8f2d6c6efd42798c589a7f3f5535ce1737af7f0c0eddce7f79b6e747535d7/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313130333136373835343635373932393334352f313134393339323335323435373236393239382f72656d6f766562672d707265766965772e706e67" alt="blanja" border="0"/>
   </div>
-  <h3 align="center">Blanja</h3>
+  <h3 align="center">Food Recipe</h3>
   <p align="center">
     <a href="https://github.com/flyinvyn/food_recipe-Be"><strong>Explore the docs »</strong></a>
     <br />
@@ -84,9 +84,9 @@ API endpoint list are also available as published postman documentation
 
 ## Related Project
 
-:rocket: [`Backend Blanja`](https://github.com/flyinvyn/food_recipe-Be)
+:rocket: [`Backend Food recipe`](https://github.com/flyinvyn/food_recipe-Be)
 
-:rocket: [`Frontend Blanja`](https://github.com/flyinvyn/food_recipe-Fe)
+:rocket: [`Frontend Food recipe`](https://github.com/flyinvyn/food_recipe-FE)
 
 :rocket: [`Demo API`](https://food-recipe-be.vercel.app)
 
